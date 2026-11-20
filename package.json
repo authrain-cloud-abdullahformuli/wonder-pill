@@ -1,0 +1,24 @@
+{
+  "name": "wonder-pill",
+  "version": "1.3.0",
+  "description": "A Claude skill that refuses to give you the answer \u2014 inverts hidden assumptions into sharp what-if provocations and interactive mind maps",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/authrain-cloud-abdullahformuli/wonder-pill.git"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/wonder-pill#readme",
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/wonder-pill/issues"
+  },
+  "keywords": [
+    "claude-skill",
+    "agent-skill",
+    "brainstorming",
+    "mindmap",
+    "ideation",
+    "first-principles",
+    "ai-agent"
+  ]
+}
